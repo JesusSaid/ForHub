@@ -39,7 +39,6 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [Spring Security]( https://spring.io/projects/spring-security) - Spring security
 * [MySQL](https://dev.mysql.com/downloads/installer/) - Base de Datos 
 * [IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/download/?section=windows)- IDE (Entorno de desenvolvimento integrado) IntelliJ IDEA
-* 
 
 ## Autores ✒️
 
