@@ -1,4 +1,4 @@
-package forohub.apiForoHub.domain.respuesta;
+package forohub.apiForoHub.domain.resp;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

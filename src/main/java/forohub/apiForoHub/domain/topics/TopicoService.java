@@ -1,12 +1,9 @@
-package forohub.apiForoHub.domain.topicos;
+package forohub.apiForoHub.domain.topics;
 
 import forohub.apiForoHub.domain.enumeracion.Status;
-import forohub.apiForoHub.domain.respuesta.RespuestasRepository;
-import forohub.apiForoHub.domain.topicos.dto.DatosActualizarTopico;
-import forohub.apiForoHub.domain.topicos.dto.DatosRegistroTopico;
-import forohub.apiForoHub.domain.topicos.dto.DatosTopico;
-import forohub.apiForoHub.domain.usuarios.Usuario;
-import forohub.apiForoHub.domain.usuarios.UsuarioRepository;
+import forohub.apiForoHub.domain.resp.RespuestasRepository;
+import forohub.apiForoHub.domain.users.Usuario;
+import forohub.apiForoHub.domain.users.UsuarioRepository;
 import forohub.apiForoHub.infra.errores.DuplicatedError;
 import forohub.apiForoHub.infra.errores.TopicNotFound;
 import org.springframework.data.domain.Page;

@@ -1,7 +1,5 @@
-package forohub.apiForoHub.domain.usuarios;
+package forohub.apiForoHub.domain.users;
 
-import forohub.apiForoHub.domain.usuarios.dto.DatosAutenticacionUsuario;
-import forohub.apiForoHub.domain.usuarios.dto.DatosUsuario;
 import forohub.apiForoHub.infra.errores.DuplicatedError;
 import forohub.apiForoHub.infra.errores.UserNotFoundException;
 import org.springframework.http.HttpStatus;

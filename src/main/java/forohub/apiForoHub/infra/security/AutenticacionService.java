@@ -1,7 +1,7 @@
 package forohub.apiForoHub.infra.security;
-import forohub.apiForoHub.domain.usuarios.UsuarioRepository;
-import forohub.apiForoHub.domain.usuarios.dto.DatosAutenticacionUsuario;
-import forohub.apiForoHub.domain.usuarios.dto.DatosRespuestaLogin;
+import forohub.apiForoHub.domain.users.UsuarioRepository;
+import forohub.apiForoHub.domain.users.DatosAutenticacionUsuario;
+import forohub.apiForoHub.domain.users.DatosRespuestaLogin;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.BadCredentialsException;

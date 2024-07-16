@@ -1,10 +1,10 @@
-package forohub.apiForoHub.domain.respuesta;
+package forohub.apiForoHub.domain.resp;
 
 
 import forohub.apiForoHub.domain.enumeracion.Resuelto;
-import forohub.apiForoHub.domain.respuesta.dto.RespuestaDTO;
-import forohub.apiForoHub.domain.topicos.Topico;
-import forohub.apiForoHub.domain.usuarios.Usuario;
+import forohub.apiForoHub.domain.resp.dto.RespuestaDTO;
+import forohub.apiForoHub.domain.topics.Topico;
+import forohub.apiForoHub.domain.users.Usuario;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

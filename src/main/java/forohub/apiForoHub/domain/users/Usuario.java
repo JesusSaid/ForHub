@@ -1,7 +1,6 @@
-package forohub.apiForoHub.domain.usuarios;
+package forohub.apiForoHub.domain.users;
 
 
-import forohub.apiForoHub.domain.usuarios.dto.DatosAutenticacionUsuario;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
@@ -11,7 +10,6 @@ import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
-import java.time.Instant;
 import java.util.Collection;
 import java.util.List;
 

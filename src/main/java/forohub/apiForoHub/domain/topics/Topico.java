@@ -1,22 +1,17 @@
-package forohub.apiForoHub.domain.topicos;
+package forohub.apiForoHub.domain.topics;
 
 import forohub.apiForoHub.domain.enumeracion.Status;
-import forohub.apiForoHub.domain.respuesta.Respuesta;
-import forohub.apiForoHub.domain.respuesta.dto.RespuestasLista;
-import forohub.apiForoHub.domain.topicos.dto.DatosRegistroTopico;
-import forohub.apiForoHub.domain.topicos.dto.DatosTopico;
-import forohub.apiForoHub.domain.usuarios.Usuario;
+import forohub.apiForoHub.domain.resp.Respuesta;
+import forohub.apiForoHub.domain.users.Usuario;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import org.springframework.beans.factory.ListableBeanFactory;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.List;
-import java.util.stream.Collectors;
 
 @Table(name = "topico")
 @Entity(name = "Topico")

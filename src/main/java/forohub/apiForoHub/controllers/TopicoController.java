@@ -1,11 +1,11 @@
 package forohub.apiForoHub.controllers;
 
 
-import forohub.apiForoHub.domain.topicos.ITopicoService;
-import forohub.apiForoHub.domain.topicos.TopicoRepository;
-import forohub.apiForoHub.domain.topicos.dto.DatosRegistroTopico;
+import forohub.apiForoHub.domain.topics.ITopicoService;
+import forohub.apiForoHub.domain.topics.TopicoRepository;
+import forohub.apiForoHub.domain.topics.DatosRegistroTopico;
 
-import forohub.apiForoHub.domain.usuarios.IUsuarioService;
+import forohub.apiForoHub.domain.users.IUsuarioService;
 import io.swagger.v3.oas.annotations.Operation;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

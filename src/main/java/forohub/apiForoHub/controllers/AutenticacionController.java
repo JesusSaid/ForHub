@@ -1,9 +1,7 @@
 package forohub.apiForoHub.controllers;
 
 
-import forohub.apiForoHub.domain.usuarios.Usuario;
-import forohub.apiForoHub.domain.usuarios.dto.DatosAutenticacionUsuario;
-import forohub.apiForoHub.infra.security.DatosJWTToken;
+import forohub.apiForoHub.domain.users.DatosAutenticacionUsuario;
 import forohub.apiForoHub.infra.security.TokenService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

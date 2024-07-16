@@ -1,4 +1,4 @@
-package forohub.apiForoHub.domain.respuesta.dto;
+package forohub.apiForoHub.domain.resp;
 
 import forohub.apiForoHub.domain.enumeracion.Resuelto;
 

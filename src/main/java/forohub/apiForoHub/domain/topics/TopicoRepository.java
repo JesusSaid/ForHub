@@ -1,4 +1,4 @@
-package forohub.apiForoHub.domain.topicos;
+package forohub.apiForoHub.domain.topics;
 
 import forohub.apiForoHub.domain.enumeracion.Status;
 import org.springframework.data.domain.Page;

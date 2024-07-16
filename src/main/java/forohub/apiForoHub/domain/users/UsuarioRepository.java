@@ -1,4 +1,4 @@
-package forohub.apiForoHub.domain.usuarios;
+package forohub.apiForoHub.domain.users;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.security.core.userdetails.UserDetails;

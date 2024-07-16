@@ -1,4 +1,4 @@
-package forohub.apiForoHub.domain.topicos.dto;
+package forohub.apiForoHub.domain.topics;
 
 
 import lombok.Data;

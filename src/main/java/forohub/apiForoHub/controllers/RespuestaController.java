@@ -1,9 +1,9 @@
 package forohub.apiForoHub.controllers;
 
 
-import forohub.apiForoHub.domain.respuesta.IRespuestaService;
-import forohub.apiForoHub.domain.respuesta.RespuestasRepository;
-import forohub.apiForoHub.domain.respuesta.dto.RespuestaDTO;
+import forohub.apiForoHub.domain.resp.IRespuestaService;
+import forohub.apiForoHub.domain.resp.RespuestasRepository;
+import forohub.apiForoHub.domain.resp.dto.RespuestaDTO;
 import jakarta.transaction.Transactional;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;

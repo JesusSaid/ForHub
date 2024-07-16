@@ -1,9 +1,6 @@
-package forohub.apiForoHub.domain.topicos;
+package forohub.apiForoHub.domain.topics;
 
-import forohub.apiForoHub.domain.topicos.dto.DatosRegistroTopico;
-import forohub.apiForoHub.domain.topicos.dto.DatosRespuestaTopico;
-import forohub.apiForoHub.domain.topicos.dto.DatosTopico;
-import forohub.apiForoHub.domain.usuarios.Usuario;
+import forohub.apiForoHub.domain.users.Usuario;
 import org.springframework.data.domain.Page;
 import org.springframework.http.ResponseEntity;
 

@@ -1,4 +1,4 @@
-package forohub.apiForoHub.domain.usuarios.dto;
+package forohub.apiForoHub.domain.users;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;

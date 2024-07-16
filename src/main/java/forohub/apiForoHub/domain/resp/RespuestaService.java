@@ -1,9 +1,9 @@
-package forohub.apiForoHub.domain.respuesta;
+package forohub.apiForoHub.domain.resp;
 
 
-import forohub.apiForoHub.domain.respuesta.dto.RespuestaDTO;
-import forohub.apiForoHub.domain.topicos.TopicoRepository;
-import forohub.apiForoHub.domain.usuarios.UsuarioRepository;
+import forohub.apiForoHub.domain.resp.dto.RespuestaDTO;
+import forohub.apiForoHub.domain.topics.TopicoRepository;
+import forohub.apiForoHub.domain.users.UsuarioRepository;
 import forohub.apiForoHub.infra.errores.TopicNotFound;
 import forohub.apiForoHub.infra.errores.UserNotFoundException;
 import jakarta.validation.Valid;

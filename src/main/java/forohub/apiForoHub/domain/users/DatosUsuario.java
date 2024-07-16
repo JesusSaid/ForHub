@@ -1,6 +1,4 @@
-package forohub.apiForoHub.domain.usuarios.dto;
-
-import forohub.apiForoHub.domain.usuarios.Usuario;
+package forohub.apiForoHub.domain.users;
 
 public record DatosUsuario(Long id,
                            String email,

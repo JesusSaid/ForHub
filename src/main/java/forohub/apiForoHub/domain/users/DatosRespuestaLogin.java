@@ -1,4 +1,4 @@
-package forohub.apiForoHub.domain.usuarios.dto;
+package forohub.apiForoHub.domain.users;
 
 public record DatosRespuestaLogin(
         String email,

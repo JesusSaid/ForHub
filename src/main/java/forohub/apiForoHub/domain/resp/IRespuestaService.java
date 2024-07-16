@@ -1,6 +1,6 @@
-package forohub.apiForoHub.domain.respuesta;
+package forohub.apiForoHub.domain.resp;
 
-import forohub.apiForoHub.domain.respuesta.dto.RespuestaDTO;
+import forohub.apiForoHub.domain.resp.dto.RespuestaDTO;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 
